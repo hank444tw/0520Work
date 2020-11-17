@@ -18,6 +18,6 @@
   | **python** |  1. 使用`Selenium 3.141`搭配`ChromeDriver`實現網頁自動操作。</br>2. 使用`BeautifulSoup4 4.7.1`針對已搜尋完畢的頁面，第一筆(最便宜)進行爬蟲。  |   [程式碼](https://github.com/hank444tw/0520Work/blob/master/0520Work/Python/0520Work.py) |     
 
 * 網站截圖
-![image](https://github.com/hank444tw/0520Work/blob/master/banner1.JPG)   
+<img src="https://github.com/hank444tw/0520Work/blob/master/banner1.JPG" stryle="float:left" />  
 
-![image](https://github.com/hank444tw/0520Work/blob/master/banner.JPG)
+<img src="https://github.com/hank444tw/0520Work/blob/master/banner.JPG" stryle="float:left" />
