@@ -4,6 +4,10 @@
 * 功能說明
   1. 輸入書籍ISBN，可自動在`飛比價格`中搜尋並篩選出最便宜的賣場
  
+* 開發工具
+  1. Visual Studio 2017
+  2. Spyder(Python3.7)
+ 
 * 使用技術
   1. ASP.NET MVC
   2. C#
